@@ -1,4 +1,4 @@
-# primetest
+# primevue for filter table
 
 ## Project setup
 ```
