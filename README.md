@@ -1,11 +1,11 @@
 # primevue for filter table
 
-## Project setup
-```
-npm install
-```
+## Project start
+###start
 
-### start
+npm install
+
+### and
 ```
 npm run dev
 ```
